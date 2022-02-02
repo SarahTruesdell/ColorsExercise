@@ -1,0 +1,37 @@
+h1{
+    color: bisque;
+    background-color: red;
+}
+
+h2{
+    color: rgb(0, 128, 0);
+    background-color: orange;
+}
+
+h3{
+    color: #642;
+    background-color: yellow;
+}
+
+h4{
+    color: #88ff11;
+    background-color: green;
+}
+
+h5{
+    color: #0045;
+    background-color: blue;
+}
+
+h6{
+    color: rgba(0, 127, 255, 1);
+    background-color: indigo;
+}
+
+p{
+    color: #96420199;
+    background-color: violet;
+}
+#first{
+    color: hotpink;
+}
